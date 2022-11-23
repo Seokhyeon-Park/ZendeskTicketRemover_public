@@ -1,0 +1,1 @@
+for(let ele of document.querySelectorAll('[data-test-id="close-button"]')){ ele.click(); }
